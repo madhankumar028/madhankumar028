@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**madhankumar028/madhankumar028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello,
 
-Here are some ideas to get you started:
+First, a big thank you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a front-end developer based out of India, and I create fun, innovative, accessible, and fast websites.
+
+I always believe that “Leave your code better than you found it”. So I try to leave every bit of code I touch more readable, modular, performant, and accessible than I found it.
+
+Beyond front-end coding chops, I’m also passionate about writing and sharing what I’ve learned both with my teammates and the broader web community. I really value the ability not only to perform web development work but also to help others improve their craft because I’ve gained so much from others sharing their skills and knowledge.
+
+During my previous tenure, I’ve led several different documentation initiatives for the team, setting up best practices including the use of pattern libraries.
+
+On a team, I tend to help bring out a clearer sense of purpose and encourage more transparent communication, resulting in better team results and a higher sense of satisfaction for all involved.
+
+Let’s talk about how I could put my eye for detail, the practice of web standards. Reach me at madhankumar028@gmail.com!
