@@ -14,4 +14,12 @@ During my previous tenure, I’ve led several different documentation initiative
 
 On a team, I tend to help bring out a clearer sense of purpose and encourage more transparent communication, resulting in better team results and a higher sense of satisfaction for all involved.
 
+What I Bring to the table:
+
+- Ability to take and work on feedback. Attention to detail while analyzing requirements.
+- Calling out blockers and gaps in time to the right channels.
+- Ability to mentor and influence people around.
+
+Thus, my box models are scopes, variables, coffee, and cricket in addition to content, padding, border, and margin.
+
 Let’s talk about how I could put my eye for detail, the practice of web standards. Reach me at madhankumar028@gmail.com!
